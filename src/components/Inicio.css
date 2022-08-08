@@ -1,0 +1,19 @@
+.ini-frow {
+  margin: 20px;
+}
+
+.ini-frow span {
+  display: inline-block;
+  height: 100%;
+  width: 80vh;
+  font-size: 2rem;
+  word-wrap: break-word;
+  margin: 50px;
+}
+
+.ini-frow img {
+  margin-left: 5vh;
+  height: 40vh;
+  vertical-align: middle;
+  box-shadow: 1px 1px 8px black;
+}
